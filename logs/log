@@ -1,0 +1,6 @@
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR demo.py:7 dmngdcfnf
+WARNING demo.py:8 dmngdcfnf
+INFO demo.py:9 dmngdcfnf
+DEBUG demo.py:10 dmngdcfnf
+INFO _internal.py:122 127.0.0.1 - - [13/Oct/2019 21:51:27] "GET /api/v1.0/index HTTP/1.1" 200 -
